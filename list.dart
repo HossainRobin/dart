@@ -1,3 +1,22 @@
+/* 
+  // List Properties
+
+  first
+  isEmpty
+  isNotEmpty
+  length
+  last
+  reversed
+  Single
+  add
+  addAll
+  elementAt
+  remove
+  removeAt
+
+
+*/
+
 void main() {
   List data = [0, 1, 2, 3, 4, 5, 6, 7];
 
